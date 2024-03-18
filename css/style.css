@@ -21,7 +21,7 @@
 }
 
 body {
-  background-color: rgb(162, 138, 255);
+  background-color: (162, 138, 255);
 }
 
 .mdl-textfield__error {
